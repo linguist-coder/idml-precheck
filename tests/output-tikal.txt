@@ -1,0 +1,159 @@
+== R01_hidden_layer.idml
+<source xml:lang="en">ALPHA baseline text for R01_hidden_layer.</source>
+== R02_grouped.idml
+<source xml:lang="en">ALPHA baseline text for R02_grouped.</source>
+<source xml:lang="en">OSCAR grouped frame.</source>
+<source xml:lang="en">PAPA grouped frame.</source>
+== R03_anchored.idml
+<source xml:lang="en">ALPHA baseline text for R03_anchored.</source>
+<source xml:lang="en">ROMEO anchored frame.</source>
+== R04_text_path.idml
+<source xml:lang="en">ALPHA baseline text for R04_text_path.</source>
+== R05_threaded.idml
+<source xml:lang="en">ALPHA baseline text for R05_threaded.</source>
+<source xml:lang="en">TANGO first frame, normal layer.</source>
+<source xml:lang="en">UNIFORM second frame, locked layer.</source>
+== R06_parent_page.idml
+<source xml:lang="en">VICTOR parent page text.</source>
+<source xml:lang="en">ALPHA baseline text for R06_parent_page.</source>
+== R07_visible_control.idml
+<source xml:lang="en">ALPHA baseline text for R07_visible_control.</source>
+<source xml:lang="en">Grouped one.</source>
+<source xml:lang="en">Grouped two.</source>
+<source xml:lang="en">Host.<ph id="1">&lt;content-1/></ph></source>
+<source xml:lang="en">Path.</source>
+<source xml:lang="en">Anchored.</source>
+== R08_table_deleted.idml
+<source xml:lang="en">ALPHA baseline text for R08_table_deleted.</source>
+== R09_table_placed.idml
+<source xml:lang="en">ALPHA baseline text for R09_table_placed.</source>
+<source xml:lang="en"><ph id="1">&lt;content-N80271470-rg1-1/></ph></source>
+<source xml:lang="en">WHISKEY cell one</source>
+<source xml:lang="en">XRAY cell two</source>
+== R10_two_conditions.idml
+<source xml:lang="en">ALPHA baseline text for R10_two_conditions.</source>
+<source xml:lang="en">Text. <bpt id="1">&lt;content-1></bpt>YANKEE visible and hidden.<ept id="1">&lt;/content-1></ept> <ph id="2">&lt;content-2/></ph> End.</source>
+== R11_condition_and_change.idml
+<source xml:lang="en">ALPHA baseline text for R11_condition_and_change.</source>
+<source xml:lang="en">Text. <ph id="1">&lt;content-1/></ph> End.</source>
+== R12_hidden_anchor.idml
+<source xml:lang="en">ALPHA baseline text for R12_hidden_anchor.</source>
+<source xml:lang="en">Text before. <ph id="1">&lt;content-1/></ph>After.</source>
+<source xml:lang="en">COPPER anchored in hidden text.</source>
+== R13_cell_footnote_note.idml
+<source xml:lang="en">ALPHA baseline text for R13_cell_footnote_note.</source>
+<source xml:lang="en">Body <ph id="1">&lt;content-1/></ph>start.<ph id="2">&lt;content-N80811A83-rg1-2/></ph> Body end.<ph id="3">&lt;content-N80811A83-rg2-3/></ph></source>
+<source xml:lang="en"><ph id="1">&lt;content-1/></ph>	DELFT footnote.</source>
+<source xml:lang="en">FLINT cell one</source>
+<source xml:lang="en">GARNET cell two</source>
+== R14_note_only.idml
+<source xml:lang="en">ALPHA baseline text for R14_note_only.</source>
+<source xml:lang="en">Body <ph id="1">&lt;content-1/></ph>start. Body end.</source>
+== R15_change_in_cell_footnote.idml
+<source xml:lang="en">ALPHA baseline text for R15_change_in_cell_footnote.</source>
+<source xml:lang="en">Body start.<ph id="1">&lt;content-N80271470-rg1-1/></ph> Body end.<ph id="2">&lt;content-N80271470-rg2-2/></ph></source>
+<source xml:lang="en"><ph id="1">&lt;content-1/></ph>	Footnote. INDIGO footnote edit.</source>
+<source xml:lang="en">Cell. HAZEL cell edit.</source>
+== R16_moved.idml
+<source xml:lang="en">ALPHA baseline text for R16_moved.</source>
+<source xml:lang="en">First part. Last part.JASPER moved text. </source>
+== T0_control.idml
+<source xml:lang="en">ALPHA baseline text for T0.</source>
+== T1_tracked.idml
+<source xml:lang="en">ALPHA baseline text for T1.  BRAVO was inserted.</source>
+== T1b_nested.idml
+<source xml:lang="en">ALPHA baseline text for T1b. DELTA outer FOXTROT end.</source>
+== T1c_nested_delete.idml
+<source xml:lang="en">ALPHA baseline text for T1c_nested_delete. DELTA outer FOXTROT end.</source>
+== T1d_nested_insert.idml
+<source xml:lang="en">ALPHA baseline text for T1d_nested_insert. DELTA outer ECHO inner GOLF added by B FOXTROT end.</source>
+== T2_locked_layer.idml
+<source xml:lang="en">ALPHA baseline text for T2.</source>
+<source xml:lang="en">GOLF text on a locked layer.</source>
+== T3_xml_leftover.idml
+<source xml:lang="en">ALPHA baseline text for T3.</source>
+== T4_hidden_condition.idml
+<source xml:lang="en">ALPHA baseline text for T4. <ph id="1">&lt;content-1/></ph></source>
+== T5_tagged_placed.idml
+<source xml:lang="en">ALPHA baseline text for T5.</source>
+<source xml:lang="en">JULIET tagged text in a live frame.</source>
+== T6_untag_all.idml
+<source xml:lang="en">JULIET tagged text in a live frame.</source>
+== T7_remove_orphan.idml
+<source xml:lang="en">JULIET tagged text in a live frame.</source>
+== T8_styled_leftover.idml
+<source xml:lang="en">ALPHA baseline text for T8.</source>
+== T9_styled_placed.idml
+<source xml:lang="en">ALPHA baseline text for T9.</source>
+<source xml:lang="en">KILO heading line.</source>
+<source xml:lang="en">LIMA plain and <bpt id="1">&lt;content-1></bpt>MIKE strong<ept id="1">&lt;/content-1></ept> words.</source>
+== R17_frame_locked_hidden.idml
+<source xml:lang="en">ALPHA baseline text for R17.</source>
+<source xml:lang="en">KELP locked frame.</source>
+== R18a_before_remove.idml
+<source xml:lang="en">ALPHA baseline text for R18_xml_parent_own_and_child.</source>
+<source xml:lang="en">SORREL live text in a frame.</source>
+== R18_xml_parent_own_and_child.idml
+<source xml:lang="en">ALPHA baseline text for R18_xml_parent_own_and_child.</source>
+== R19_anchor_in_deleted_tagged.idml
+<source xml:lang="en">ALPHA baseline text for R19_anchor_in_deleted_tagged.</source>
+<source xml:lang="en">TEAK anchored in a deleted tagged frame.</source>
+== R19b_anchor_in_placed_tagged.idml
+<source xml:lang="en">ALPHA baseline text for R19b_anchor_in_placed_tagged.</source>
+<source xml:lang="en">TEAK anchored in a placed tagged frame.</source>
+== R20_thread_anchor_layer.idml
+<source xml:lang="en">ALPHA baseline text for R20_thread_anchor_layer.</source>
+<source xml:lang="en">MAPLE<ph id="1">&lt;content-1/></ph> first frame text.</source>
+<source xml:lang="en">OLIVE<ph id="1">&lt;content-1/></ph> second frame text.</source>
+<source xml:lang="en">QUINCE anchor in second frame.</source>
+<source xml:lang="en">PLUM anchor in first frame.</source>
+== R21_thread_anchor_hidden.idml
+<source xml:lang="en">ALPHA baseline text for R21_thread_anchor_hidden.</source>
+<source xml:lang="en">MAPLE<ph id="1">&lt;content-1/></ph> first frame text.</source>
+<source xml:lang="en">OLIVE<ph id="1">&lt;content-1/></ph> second frame text.</source>
+<source xml:lang="en">QUINCE anchor in second frame.</source>
+<source xml:lang="en">PLUM anchor in first frame.</source>
+== R22_hidden_group.idml
+<source xml:lang="en">ALPHA baseline text for R22_hidden_group.</source>
+<source xml:lang="en">UMBER grouped one.<ph id="1">&lt;content-1/></ph></source>
+<source xml:lang="en">VIOLET grouped two.</source>
+<source xml:lang="en">WILLOW nested anchor.</source>
+== R23_condition_in_note.idml
+<source xml:lang="en">ALPHA baseline text for R23_condition_in_note.</source>
+<source xml:lang="en">Body <ph id="1">&lt;content-1/></ph>start. Body end.</source>
+== R24_same_opening.idml
+<source xml:lang="en">ALPHA baseline text for R24_same_opening.</source>
+== R25_inner_outer.idml
+<source xml:lang="en">ALPHA baseline text for R25_inner_outer.</source>
+<source xml:lang="en">Text. <ph id="1">&lt;content-1/></ph> Tail.</source>
+== R26_pipes.idml
+<source xml:lang="en">ALPHA baseline text for R26_pipes.</source>
+== R27a_before_remove.idml
+<source xml:lang="en">ALPHA baseline text for R27_anchor_and_linked_child.</source>
+<source xml:lang="en">BIRCH live text in a frame.</source>
+<source xml:lang="en">ASPEN anchored and not placed.</source>
+== R27_anchor_and_linked_child.idml
+<source xml:lang="en">ALPHA baseline text for R27_anchor_and_linked_child.</source>
+== R28_same_anchored_text.idml
+<source xml:lang="en">ALPHA baseline text for R28_same_anchored_text.</source>
+<source xml:lang="en">CEDAR same anchored text.</source>
+<source xml:lang="en">CEDAR same anchored text.</source>
+== R29_anchored_path_deleted.idml
+<source xml:lang="en">ALPHA baseline text for R29_anchored_path_deleted.</source>
+<source xml:lang="en">DOGWOOD text on an anchored path.</source>
+== R30_empty_containers.idml
+<source xml:lang="en">ALPHA baseline text for R30_empty_containers.</source>
+<source xml:lang="en">EBONY all words are in the first frame.</source>
+<source xml:lang="en">FIR all words are in the ordinary frame.</source>
+== R31_frame_to_path.idml
+<source xml:lang="en">ALPHA baseline text for R31_frame_to_path.</source>
+<source xml:lang="en">GINKGO in the frame.</source>
+<source xml:lang="en">HICKORY on the path.</source>
+== R32_unplaced_table_links.idml
+<source xml:lang="en">ALPHA baseline text for R32_unplaced_table_links.</source>
+== R33_locked_inherited.idml
+<source xml:lang="en">ALPHA baseline text for R33_locked_inherited.</source>
+<source xml:lang="en">LARCH grouped one.<ph id="1">&lt;content-1/></ph></source>
+<source xml:lang="en">MYRTLE grouped two.</source>
+<source xml:lang="en">OSIER path on a locked line.</source>
+<source xml:lang="en">NUTMEG nested anchor.</source>

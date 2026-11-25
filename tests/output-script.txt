@@ -1,0 +1,240 @@
+R01_hidden_layer.idml: 1 item(s)
+  [layer] Stories/Story_ufd.xml: layer 'Hidden notes' is hidden
+      "NOVEMBER plain frame on a hidden layer."
+exit 1
+R02_grouped.idml: 2 item(s)
+  [layer] Stories/Story_u114.xml: layer 'Locked notes' is locked
+      "PAPA grouped frame."
+  [layer] Stories/Story_ufd.xml: layer 'Locked notes' is locked
+      "OSCAR grouped frame."
+exit 1
+R03_anchored.idml: 2 item(s)
+  [layer] Stories/Story_ufd.xml: layer 'Hidden notes' is hidden
+      "QUEBEC host text."
+  [layer] Stories/Story_u114.xml: layer 'Hidden notes' is hidden
+      "ROMEO anchored frame."
+exit 1
+R04_text_path.idml: 2 item(s)
+  [layer] Stories/Story_ufe.xml: layer 'Hidden notes' is hidden
+      "SIERRA text on a path."
+  [path text] Stories/Story_ufe.xml: story has a text path
+      "SIERRA text on a path."
+exit 1
+R05_threaded.idml: 1 item(s)
+  [layer] Stories/Story_uf8.xml: layer 'Locked notes' is locked (one of the story's containers)
+      "TANGO first frame, normal layer. UNIFORM second frame, locked layer."
+exit 1
+R06_parent_page.idml: 1 item(s)
+  [layer] Stories/Story_ufd.xml: layer 'Locked notes' is locked (parent page)
+      "VICTOR parent page text."
+exit 1
+R07_visible_control.idml: 1 item(s)
+  [path text] Stories/Story_u157.xml: story has a text path
+      "Path."
+exit 1
+R08_table_deleted.idml: 2 item(s)
+  [unplaced XML text] XML/BackingStory.xml: Root > Story1 > Table1 > Cell (id di2i3iai9)
+      "WHISKEY cell one"
+  [unplaced XML text] XML/BackingStory.xml: Root > Story1 > Table1 > Cell (id di2i3iai8)
+      "XRAY cell two"
+exit 1
+R09_table_placed.idml: nothing found
+exit 0
+R10_two_conditions.idml: 1 item(s)
+  [hidden text] Stories/Story_uf8.xml: conditions in this block: Internal review, Old
+      "ZULU both hidden."
+exit 1
+R11_condition_and_change.idml: 3 item(s)
+  [tracked change] Stories/Story_uf8.xml: InsertedText by Editor B
+      "BRONZE"
+  [tracked change] Stories/Story_uf8.xml: DeletedText by Editor B
+      "then"
+  [hidden text] Stories/Story_uf8.xml: conditions in this block: Internal
+      "AMBER hidden BRONZE [deleted: then ]edited."
+exit 1
+R12_hidden_anchor.idml: 1 item(s)
+  [hidden text] Stories/Story_u110.xml: frame anchored in hidden text, conditions in this block: Internal
+      "COPPER anchored in hidden text."
+exit 1
+R13_cell_footnote_note.idml: 1 item(s)
+  [layer] Stories/Story_ufd.xml: layer 'Locked notes' is locked
+      "Body start. | DELFT footnote. | Body end. | FLINT cell one | GARNET..."
+exit 1
+R14_note_only.idml: nothing found
+exit 0
+R15_change_in_cell_footnote.idml: 1 item(s)
+  [tracked change] Stories/Story_uf8.xml: InsertedText by Editor B
+      "HAZEL cell edit."
+exit 1
+R16_moved.idml: 2 item(s)
+  [tracked change] Stories/Story_uf8.xml: DeletedText by Editor B
+      "JASPER moved text."
+  [tracked change] Stories/Story_uf8.xml: MovedText by Editor B
+      "JASPER moved text."
+exit 1
+R17_frame_locked_hidden.idml: 2 item(s)
+  [object] Stories/Story_u10f.xml: frame, path or group is hidden
+      "LILAC hidden frame."
+  [object] Stories/Story_uf8.xml: frame, path or group is locked
+      "KELP locked frame."
+exit 1
+R18_xml_parent_own_and_child.idml: nothing found
+exit 0
+R18a_before_remove.idml: 1 item(s)
+  [unplaced XML text] XML/BackingStory.xml: Root > Sec (id di2i3) (has linked content inside)
+      "ROWAN own text of the parent."
+exit 1
+R19_anchor_in_deleted_tagged.idml: 1 item(s)
+  [unplaced XML text] Stories/Story_u10f.xml: frame anchored in Root > Note (id di2i3)
+      "TEAK anchored in a deleted tagged frame."
+exit 1
+R19b_anchor_in_placed_tagged.idml: nothing found
+exit 0
+R20_thread_anchor_layer.idml: 3 item(s)
+  [layer] Stories/Story_uf8.xml: layer 'Hidden notes' is hidden (one of the story's containers)
+      "MAPLE first frame text. OLIVE second frame text."
+  [layer] Stories/Story_u13e.xml: layer 'Hidden notes' is hidden (not certain: the host story is in several frames)
+      "QUINCE anchor in second frame."
+  [layer] Stories/Story_u126.xml: layer 'Hidden notes' is hidden (not certain: the host story is in several frames)
+      "PLUM anchor in first frame."
+exit 1
+R21_thread_anchor_hidden.idml: 3 item(s)
+  [object] Stories/Story_uf8.xml: frame, path or group is hidden (one of the story's containers)
+      "MAPLE first frame text. OLIVE second frame text."
+  [object] Stories/Story_u13e.xml: frame, path or group is hidden (not certain: the host story is in several frames)
+      "QUINCE anchor in second frame."
+  [object] Stories/Story_u126.xml: frame, path or group is hidden (not certain: the host story is in several frames)
+      "PLUM anchor in first frame."
+exit 1
+R22_hidden_group.idml: 3 item(s)
+  [object] Stories/Story_u10f.xml: frame, path or group is hidden
+      "VIOLET grouped two."
+  [object] Stories/Story_uf8.xml: frame, path or group is hidden
+      "UMBER grouped one."
+  [object] Stories/Story_u126.xml: frame, path or group is hidden
+      "WILLOW nested anchor."
+exit 1
+R23_condition_in_note.idml: nothing found
+exit 0
+R24_same_opening.idml: 2 item(s)
+  [unplaced XML text] XML/BackingStory.xml: Root > Note (id di2i3)
+      "YARROW this is a long shared opening that runs for more than sevent..."
+  [unplaced XML text] XML/BackingStory.xml: Root > Note (id di2i6)
+      "YARROW this is a long shared opening that runs for more than sevent..."
+exit 1
+R25_inner_outer.idml: 2 item(s)
+  [tracked change] Stories/Story_uf8.xml: DeletedText by Editor B
+      "inner word"
+  [hidden text] Stories/Story_uf8.xml: conditions in this block: Inner, Outer
+      "ZINNIA outer [deleted: inner word ]end."
+exit 1
+R26_pipes.idml: 2 item(s)
+  [layer] Stories/Story_u110.xml: layer 'Hidden notes' is hidden
+      "|"
+  [unplaced XML text] XML/BackingStory.xml: Root > Note (id di2i3)
+      "|"
+exit 1
+R27_anchor_and_linked_child.idml: nothing found
+exit 0
+R27a_before_remove.idml: 1 item(s)
+  [unplaced XML text] Stories/Story_u110.xml: frame anchored in Root > Mixed (id di2i3) (has linked content inside)
+      "ASPEN anchored and not placed."
+exit 1
+R28_same_anchored_text.idml: 2 item(s)
+  [unplaced XML text] Stories/Story_u110.xml: frame anchored in Root > Note (id di2i3)
+      "CEDAR same anchored text."
+  [unplaced XML text] Stories/Story_u13f.xml: frame anchored in Root > Note (id di2i6)
+      "CEDAR same anchored text."
+exit 1
+R29_anchored_path_deleted.idml: 1 item(s)
+  [unplaced XML text] Stories/Story_u110.xml: text on a path anchored in Root > Note (id di2i3)
+      "DOGWOOD text on an anchored path."
+exit 1
+R30_empty_containers.idml: 2 item(s)
+  [path text] Stories/Story_u126.xml: story has a text path
+      "FIR all words are in the ordinary frame."
+  [object] Stories/Story_uf8.xml: frame, path or group is locked (one of the story's containers)
+      "EBONY all words are in the first frame."
+exit 1
+R31_frame_to_path.idml: 1 item(s)
+  [path text] Stories/Story_uf8.xml: story has a text path
+      "GINKGO in the frame. HICKORY on the path."
+exit 1
+R32_unplaced_table_links.idml: 3 item(s)
+  [unplaced XML text] XML/BackingStory.xml: Root > Sec (id di2i3) (has linked content inside)
+      "IRONWOOD before the table."
+  [unplaced XML text] XML/BackingStory.xml: Root > Sec > Tab > Cell (id di2i3i8i7)
+      "JUNIPER cell one"
+  [unplaced XML text] XML/BackingStory.xml: Root > Sec > Tab > Cell (id di2i3i8i6)
+      "KAPOK cell two"
+exit 1
+R33_locked_inherited.idml: 5 item(s)
+  [object] Stories/Story_u140.xml: frame, path or group is locked
+      "OSIER path on a locked line."
+  [path text] Stories/Story_u140.xml: story has a text path
+      "OSIER path on a locked line."
+  [object] Stories/Story_u10f.xml: frame, path or group is locked
+      "MYRTLE grouped two."
+  [object] Stories/Story_uf8.xml: frame, path or group is locked
+      "LARCH grouped one."
+  [object] Stories/Story_u126.xml: frame, path or group is locked
+      "NUTMEG nested anchor."
+exit 1
+T0_control.idml: nothing found
+exit 0
+T1_tracked.idml: 3 item(s)
+  [tracked change] Stories/Story_ue1.xml: DeletedText by Unknown User Name
+      "CHARLIE will be deleted."
+  [tracked change] Stories/Story_ue1.xml: InsertedText by Unknown User Name
+      (spaces or line breaks only)
+  [tracked change] Stories/Story_ue1.xml: InsertedText by Unknown User Name
+      "BRAVO was inserted."
+exit 1
+T1b_nested.idml: 1 item(s)
+  [tracked change] Stories/Story_ue1.xml: InsertedText by Unknown User Name
+      "DELTA outer FOXTROT end."
+exit 1
+T1c_nested_delete.idml: 4 item(s)
+  [tracked change] Stories/Story_ue1.xml: InsertedText by Editor A
+      "DELTA outer"
+  [tracked change] Stories/Story_ue1.xml: DeletedText by Editor B
+      "ECHO inner"
+  [tracked change] Stories/Story_ue1.xml: InsertedText by Editor A
+      "F"
+  [tracked change] Stories/Story_ue1.xml: InsertedText by Editor A
+      "OXTROT end."
+exit 1
+T1d_nested_insert.idml: 3 item(s)
+  [tracked change] Stories/Story_ue1.xml: InsertedText by Editor A
+      "DELTA outer ECHO inner"
+  [tracked change] Stories/Story_ue1.xml: InsertedText by Editor B
+      "GOLF added by B"
+  [tracked change] Stories/Story_ue1.xml: InsertedText by Editor A
+      "FOXTROT end."
+exit 1
+T2_locked_layer.idml: 1 item(s)
+  [layer] Stories/Story_ufd.xml: layer 'Locked notes' is locked
+      "GOLF text on a locked layer."
+exit 1
+T3_xml_leftover.idml: 1 item(s)
+  [unplaced XML text] XML/BackingStory.xml: Root > Note (id di2i3)
+      "HOTEL tagged text in a deleted frame."
+exit 1
+T4_hidden_condition.idml: 1 item(s)
+  [hidden text] Stories/Story_ue1.xml: conditions in this block: Internal
+      "INDIA hidden condition text."
+exit 1
+T5_tagged_placed.idml: nothing found
+exit 0
+T6_untag_all.idml: 1 item(s)
+  [unplaced XML text] XML/BackingStory.xml: Root (id di2)
+      "HOTEL tagged text in a deleted frame."
+exit 1
+T7_remove_orphan.idml: nothing found
+exit 0
+T8_styled_leftover.idml: 1 item(s)
+  [unplaced XML text] XML/BackingStory.xml: Root > Note (id di2i3)
+      "KILO heading line. LIMA plain and MIKE strong words."
+exit 1
+T9_styled_placed.idml: nothing found
+exit 0
